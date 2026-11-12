@@ -1,0 +1,8 @@
+{
+  "framework": "express",
+  "functions": {
+    "index.js": {
+      "runtime": "node18"
+    }
+  }
+}
